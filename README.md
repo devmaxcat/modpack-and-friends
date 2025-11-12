@@ -35,7 +35,10 @@ git clean -df --dry-run
 ```
 MAKE SURE THE LIST DOES NOT SHOW IT WILL DELETE ANYTHING PERSONAL TO YOU, LIKE SCHEMATICS, WAYPOINTS, ETC, IT SHOULD ONLY DELETE MODS AND SCRIPTS
 ```
-git clean -dfn
+git clean -df
+```
+```
+git pull -u origin/main
 ```
 4. From there, anytime the modpack updates, you can just cd into the modpack instance folder again, open a command prompt, and type
 ```
