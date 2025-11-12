@@ -13,7 +13,7 @@ You're done! You can stop here.
 Anytime the modpack updates, repeat the steps above. Unfortunently you'll lose all of your previous settings and waypoints and stuff which is really annoying, if you dare continue futher....
 If you need to update your modpack, you can either do option 1 and lose data or follow these steps!
 
-1. Make sure to install git
+1. Make sure to [install git](https://git-scm.com/install/)
 3. Go into to the modpack instance folder, open a command prompt, and type these commands:
 ```
 cd C:/Users/<user>/curseforge/Instances/<modpack instance folder name>
