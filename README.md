@@ -7,7 +7,7 @@ I basically just assume you use curseforge sorry if you don't but I assume it co
 
 
 ## Setup
-Go to the [latest release](https://github.com/devmaxcat/modpack-and-friends/releases/tag/latest) and download the zip, import it into curseforge.
+Go to the [latest release](https://github.com/devmaxcat/modpack-and-friends/releases/latest) and download the zip, import it into curseforge.
 
 You're done! You can stop here. 
 Anytime the modpack updates, repeat the steps above. Unfortunently you'll lose all of your previous settings and waypoints and stuff which is really annoying, if you dare continue futher....
