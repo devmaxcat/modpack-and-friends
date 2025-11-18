@@ -9,6 +9,10 @@ defaultconfigs/
 crash-reports/
 config/
 modernfix/
+resourcepacks/
+shaderpacks/
+downloads/
+backups/
 
 usernamecache.json
 usercache.json
